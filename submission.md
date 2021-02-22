@@ -1,0 +1,21 @@
+Screencaps for assignment
+- 1
+- ![Screen Capture #1](figures/screencap1.png)
+- 2
+- ![Screen Capture #2](figures/screencap2.png)
+- 3
+- ![Screen Capture #3](figures/screncap3.png)
+- 4
+- ![Screen Capture #4](figures/screencap4.png)
+- 5
+- ![Screen Capture #5](figures/screencap5.png)
+- 6
+- ![Screen Capture #6](figures/screencap6.png)
+- 7
+- ![Screen Capture #7](figures/screencap7.png)
+- 8
+- ![Screen Capture #8](figures/screencap8.png)
+- 9
+- ![Screen Capture #9](figures/screencap9.png)
+- 10
+- ![Screen Capture #10](figures/screencap10.png)
